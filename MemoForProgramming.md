@@ -43,3 +43,15 @@ $ pod install
 ### Reference
 [http://stackoverflow.com/questions/17072396/cocoapods-errors-on-project-build](http://stackoverflow.com/questions/17072396/cocoapods-errors-on-project-build)
 
+## Predefined Comments
+- #pragma mark
+- #pragma mark -
+- MARK:
+- TODO:
+- FIXME:
+- !!!:
+- ???:
+
+```objc
+//TODO: Some comments
+```
